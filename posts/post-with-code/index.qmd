@@ -1,9 +1,12 @@
 ---
-title: "Better way to do things"
+title: "Public Meetings Re-imagined (brilliantly!)"
 author: "Organically Governed"
 date: "2024-06-06"
-categories: [new york, meetings, best practices]
-image: "image.jpg"
+categories: [public meetings, innovation]
+image: "photo-1475721027785-f74eccf877e2.avif"
 ---
 
-this is a link to a post
+We all know that the traditional public conmment format tends to attract the same speakers, and alienate many other residents. The [National Civic League](https://www.nationalcivicleague.org/) is proposing a new approach to bring more voices into the room. 
+
+
+[Read more on Bloomberg Cities Network, powered by JHU](https://bloombergcities.jhu.edu/news/pilot-project-shaking-things-public-meetings)
