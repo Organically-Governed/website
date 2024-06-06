@@ -1,11 +1,11 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Welcome To Organically Governed"
+author: "Organically Governed"
 date: "2024-06-03"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is the first post in our blog. Welcome!
 
 ![](thumbnail.jpg)
 

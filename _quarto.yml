@@ -2,14 +2,18 @@ project:
   type: website
 
 website:
-  title: "website"
+  title: "Organically Governed"
+  foreground: dark
   navbar:
     right:
       - about.qmd
+      - icon: instagram
+        href: https://www.instagram.com/organicallygoverned/
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/Organically-Governed
+      - icon: linkedin
+        href: https://linkedin.com
+
 format:
   html:
     theme: cosmo

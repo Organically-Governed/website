@@ -1,19 +1,20 @@
 ---
 title: "About"
-image: profile.jpg
+image: org-gov.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/organicallygoverned/
+    - icon: github
+      text: Github
+      href: https://github.com/Organically-Governed
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
 
 ---
 
-About this blog
+We are three residents of a small city in New York State. 
+In this blog, we share thoughts and resources on how to strengethen democracy on the local level and increase partcipation in government. 
